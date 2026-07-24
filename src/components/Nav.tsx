@@ -79,7 +79,7 @@ export default function Nav() {
             <MessageCircle className="h-4.5 w-4.5" />
           </a>
           <a
-            href="https://wa.me/5511988112216"
+            href="https://sistema-de-agendamento-devclub.vercel.app"
             target="_blank"
             rel="noreferrer"
             className="btn-sheen hidden rounded-full bg-gradient-to-r from-gold-300 via-gold-500 to-gold-600 px-5 py-2.5 text-sm font-semibold text-pine-950 shadow-[0_10px_30px_-10px_rgba(201,162,92,0.8)] transition-transform duration-300 hover:-translate-y-0.5 sm:inline-flex"
@@ -133,7 +133,7 @@ export default function Nav() {
               transition={{ delay: 0.4, duration: 0.5, ease: EASE }}
             >
               <a
-                href="https://wa.me/5511988112216"
+                href="https://sistema-de-agendamento-devclub.vercel.app"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => setOpen(false)}

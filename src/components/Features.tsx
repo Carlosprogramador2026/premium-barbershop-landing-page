@@ -56,7 +56,7 @@ export default function Features() {
           />
           <Reveal delay={0.2} className="shrink-0">
             <a
-              href="https://wa.me/5511988112216"
+              href="https://sistema-de-agendamento-devclub.vercel.app"
               target="_blank"
               rel="noreferrer"
               className="group inline-flex items-center gap-2 rounded-full border border-gold-500/40 px-6 py-3.5 text-sm font-semibold text-gold-200 transition-all duration-300 hover:bg-gold-500/10"

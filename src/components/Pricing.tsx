@@ -123,7 +123,7 @@ export default function Pricing() {
                   ))}
                 </ul>
                 <a
-                  href="https://wa.me/5511988112216"
+                  href="https://sistema-de-agendamento-devclub.vercel.app"
                   target="_blank"
                   rel="noreferrer"
                   className="btn-sheen mt-8 block rounded-full bg-gradient-to-r from-gold-300 via-gold-500 to-gold-600 px-6 py-4 text-center text-sm font-bold text-pine-950 shadow-[0_16px_40px_-12px_rgba(201,162,92,0.7)] transition-transform duration-300 hover:-translate-y-0.5"
@@ -165,7 +165,7 @@ export default function Pricing() {
                   ))}
                 </ul>
                 <a
-                  href="https://wa.me/5511988112216"
+                  href="https://sistema-de-agendamento-devclub.vercel.app"
                   target="_blank"
                   rel="noreferrer"
                   className="mt-7 block rounded-full border border-gold-500/40 px-6 py-3.5 text-center text-sm font-semibold text-gold-200 transition-all duration-300 hover:bg-gold-500/10"
