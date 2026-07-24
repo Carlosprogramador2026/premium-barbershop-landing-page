@@ -67,7 +67,7 @@ export default function Hero() {
           <Reveal delay={0.3}>
             <div className="mt-9 flex flex-wrap items-center gap-4">
               <a
-                href="http://localhost:3000/"
+                href="https://wa.me/5511988112216"
                 target="_blank"
                 rel="noreferrer"
                 className="btn-sheen group inline-flex items-center gap-2.5 rounded-full bg-gradient-to-r from-gold-300 via-gold-500 to-gold-600 px-7 py-4 text-base font-semibold text-pine-950 shadow-[0_18px_50px_-12px_rgba(201,162,92,0.65)] transition-transform duration-300 hover:-translate-y-0.5"
@@ -210,7 +210,9 @@ export default function Hero() {
                   hoje · 17h40
                 </span>
                 <a
-                  href="#agendar"
+                  href="https://wa.me/5511988112216"
+                  target="_blank"
+                  rel="noreferrer"
                   className="text-xs font-semibold text-porcelain/75 underline decoration-gold-400/60 underline-offset-4 transition-colors hover:text-gold-200"
                 >
                   reservar →
